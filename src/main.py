@@ -148,7 +148,7 @@ def setup_page_config():
         padding: 10px 14px;
         border-radius: 16px 16px 4px 16px;
         margin: 4px 0;
-        max-width: fit-content;
+        max-width: 500px;
         margin-left: auto;
         margin-right: 10px;
         margin-bottom:8px;
