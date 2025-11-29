@@ -1,6 +1,6 @@
 # 🐦‍🔥 Phoenix AI Tutor
 
-**Phoenix AI Buddy** is an intelligent multi-agent system that provides personalized programming assistance through specialized AI agents. It helps learners and developers get instant help with programming concepts, code review, debugging, practice exercises, and code generation through a professional chat interface.
+   **Phoenix AI Buddy** is an intelligent multi-agent system that provides personalized programming assistance through specialized AI agents. It helps learners and developers get instant help with programming concepts, code review, debugging, practice exercises, and code generation through a professional chat interface.
 
 The project demonstrates advanced multi-agent workflows, intelligent query routing, session management, and real-time AI-powered assistance using Google's Gemini models.
 
